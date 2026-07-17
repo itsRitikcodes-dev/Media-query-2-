@@ -21,7 +21,7 @@ A modern and responsive hero section website for professional laundry services. 
 
 - **Modern Styling**
 
-##  Getting Started
+## How to Run
 **Open** `index.html` in your web browser
 
 ##  File Descriptions
